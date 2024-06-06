@@ -6,6 +6,12 @@ Este repositório oferece uma demonstração prática e robusta dos conceitos fu
 ## Ementa
 Conceitos básicos de sistemas distribuídos; Características de sistemas distribuídos; Modelo cliente/servidor; Comunicação remota entre processos; Concorrência e Sincronização; Compartilhamento de Informações Distribuídas; Segurança; Tolerância a falhas; Estudos de casos (RMI, CORBA, COM e .NET).
 
+## Unidade 1
+Atividades relacionadas aos conceitos básicos de Redes de Computadores e Sistemas Distribuídos
+
+* [Prática 01 - Sockets](https://github.com/devitruvius/DNS-sockets)
+* [Prática 02 - Servidores Web](https://github.com/devitruvius/DNS-web-server)
+
 ## Repositório Principal
 Este é o repositório principal que contém todas as atividades relacionadas ao curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Você pode encontrar todos os materiais relacionados ao curso neste repositório central:
 * [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/devitruvius/college-repository)
