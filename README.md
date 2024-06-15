@@ -9,7 +9,7 @@ Conceitos básicos de sistemas distribuídos; Características de sistemas distr
 ## Unidade 1
 Atividades relacionadas aos conceitos básicos de Redes de Computadores e Sistemas Distribuídos
 
-* [Prática 01 - Sockets](https://github.com/devitruvius/DNS-sockets)
+* [Prática 01 - Sockets]
 * [Prática 02 - Servidores Web](https://github.com/devitruvius/DNS-web-server)
 
 ## Repositório Principal
