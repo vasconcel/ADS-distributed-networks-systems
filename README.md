@@ -1,7 +1,7 @@
 # Redes e Sistemas Distribuídos
 
 ## Objetivo
-Este repositório oferece uma demonstração prática e robusta dos conceitos fundamentais de Redes e Sistemas Distribuídos, conforme ministrados na disciplina de Redes e Sistemas Distribuídos do curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA).
+Este repositório oferece uma demonstração prática e robusta dos conceitos fundamentais de Redes e Sistemas Distribuídos, conforme ministrado no curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA).
 
 ## Ementa
 Conceitos básicos de sistemas distribuídos; Características de sistemas distribuídos; Modelo cliente/servidor; Comunicação remota entre processos; Concorrência e Sincronização; Compartilhamento de Informações Distribuídas; Segurança; Tolerância a falhas; Estudos de casos (RMI, CORBA, COM e .NET).
