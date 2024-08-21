@@ -18,8 +18,7 @@ Esta unidade contém uma prática que une vários conceitos de toda a disciplina
 * [Prática 03 - Cliente-Servidor e P2P](https://github.com/devitruvius/DNS-chat-multicast)
 
 ## Repositório Principal
-Este é o repositório principal que contém todas as atividades relacionadas ao curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Você pode encontrar todos os materiais relacionados ao curso neste repositório central:
-* [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/devitruvius/college-repository)
+* [Voltar](https://github.com/devitruvius/college-repository)
 
 ## Licença
 
